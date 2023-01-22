@@ -5,14 +5,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enamahmedtaufik&label=Profile%20views&color=0e75b6&style=flat" alt="enamahmedtaufik" /> </p>
 <p align="left"> <a href="https://twitter.com/@enamahmed742745" target="blank"><img src="https://img.shields.io/twitter/follow/@enamahmed742745?logo=twitter&style=for-the-badge" alt="@enamahmed742745" /></a> </p>
 
-- 🔭 I’m currently working on **Data Analysis**
+<!-- - 🔭 I’m currently working on **Data Analysis**
 
-- 🌱 I’m currently learning **Python's Library**
+- 🌱 I’m currently learning **Python's Library** -->
 
 - 👯 I’m looking to collaborate on **Machine Learning & AI Projects**
 
-- 🤝 I’m looking for help with **Data Analysis on ML**
-
+<!-- - 🤝 I’m looking for help with **Data Analysis on ML**
+ -->
 - 📫 How to reach me **enam.ahmed.taufik@g.bracu.ac.bd**
 
 <h3 align="left">Connect with me:</h3>
